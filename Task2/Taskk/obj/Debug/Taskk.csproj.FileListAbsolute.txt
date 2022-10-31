@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\Taskk\Taskk\bin\Debug\Taskk.exe.config
+C:\Users\ASUS\source\repos\Taskk\Taskk\bin\Debug\Taskk.exe
+C:\Users\ASUS\source\repos\Taskk\Taskk\bin\Debug\Taskk.pdb
+C:\Users\ASUS\source\repos\Taskk\Taskk\obj\Debug\Taskk.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Taskk\Taskk\obj\Debug\Taskk.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Taskk\Taskk\obj\Debug\Taskk.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Taskk\Taskk\obj\Debug\Taskk.exe
+C:\Users\ASUS\source\repos\Taskk\Taskk\obj\Debug\Taskk.pdb
+C:\Users\ASUS\Desktop\Task2\Taskk\bin\Debug\Taskk.exe.config
+C:\Users\ASUS\Desktop\Task2\Taskk\bin\Debug\Taskk.exe
+C:\Users\ASUS\Desktop\Task2\Taskk\bin\Debug\Taskk.pdb
+C:\Users\ASUS\Desktop\Task2\Taskk\obj\Debug\Taskk.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Task2\Taskk\obj\Debug\Taskk.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Task2\Taskk\obj\Debug\Taskk.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Task2\Taskk\obj\Debug\Taskk.exe
+C:\Users\ASUS\Desktop\Task2\Taskk\obj\Debug\Taskk.pdb
